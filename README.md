@@ -86,7 +86,7 @@ Choose default settings unless you are have advanced knowledge on what you'd nee
 ![image](https://github.com/Nickklein13/Mediacreation-tool/assets/150096883/221a5d0a-daca-48c4-8d9b-df773bc70dbd)
 
 <p>
-And finally, choose to use a "USB flash drive" (here it will remind you for a final time you need 8gb of room. After you select that, it'll have you choose a specific usb drive, so if you have multiple USB storage devices plugged in, please take the time to double check the name of the one you want Windows copied too.
+And finally, choose to use a "USB flash drive" (here it will remind you for a final time you need 8gb of room. After you select that, it'll have you choose a specific USB drive, so if you have multiple USB storage devices plugged in, please take the time to double check the name of the one you want Windows copied too.
 </p>
 <br />
 
@@ -109,5 +109,10 @@ Upon completion; you will have a USB device with windows installed on it!
 ![image](https://github.com/Nickklein13/Mediacreation-tool/assets/150096883/1843c457-5302-4c96-8396-69ee18e2aea4)
 ![image](https://github.com/Nickklein13/Mediacreation-tool/assets/150096883/7973ea38-70dc-4191-be93-d4e8f926ed31)
 
+
+<p>
+This USB is now capable of installing windows onto a newly built computer, motherboard / storage swapped computer, or any sort of computer that needs a fresh installation of windows. You'll want to plug this USB in before a boot up of the current computer needing the OS.
+</p>
+<br />
 
 
