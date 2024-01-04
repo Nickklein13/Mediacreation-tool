@@ -1,7 +1,7 @@
 ![image](https://github.com/Nickklein13/Mediacreation-tool/assets/150096883/52975c7b-6481-41fb-8ad4-80bb2c6c263d)
 
 <h1>Using media creation tool to create a copy of Windows 10 on a USB</h1>
-This tutorial will outline how to create a copy of windows and put it on a plugged in USB device. <br />
+This tutorial will outline how to create a copy of windows and put it on a plugged-in USB device. <br />
 
 
 Having a USB loaded with Windows is especially useful for new computer builds, upgrades, or troubleshooting that necessitates a fresh windows install. <br />
@@ -18,7 +18,7 @@ Having a USB loaded with Windows is especially useful for new computer builds, u
 
 <h2>Necessary Prerequisites for procedure</h2>
 
-- USB Storage Device (with minimum 8GB of available space)
+- USB Storage Device (with a minimum 8GB of available space)
 - Computer with working Windows OS
 - Connection to internet
 
@@ -60,9 +60,9 @@ Once there, we will want to choose the second option "Create Windows 10 installa
 ![image](https://github.com/Nickklein13/Mediacreation-tool/assets/150096883/573a533e-b87b-4c08-b82b-0617da668bac)
 
 <p>
-4.) Clicking this will open a "Windows 10 setup" window. Follow the prompts making sure to take time to read each window; there may be pauses in between each window to allow the media creation tool to properly setup for configuration.
+4.) Clicking this will open a "Windows 10 setup" window. Follow the prompts making sure to take time to read each window; there may be pauses in between each window to allow the media creation tool to properly set up for configuration.
 
-First screen you're accepting the Microsoft software Liscense terms.
+First screen you're accepting the Microsoft software License terms.
 
 </p>
 <br />
@@ -79,7 +79,7 @@ Next screen you'll want to choose Create installation media for another PC.
 
 
 <p>
-Choose default settings unless you are have advanced knowledge on what you'd need to change.
+Choose default settings unless you`````` have advanced knowledge on what you'd need to change.
 </p>
 <br />
 
@@ -111,7 +111,7 @@ Upon completion; you will have a USB device with windows installed on it!
 
 
 <p>
-This USB is now capable of installing windows onto a newly built computer, motherboard / storage swapped computer, or any sort of computer that needs a fresh installation of windows. You'll want to plug this USB in before a boot up of the current computer needing the OS.
+This USB is now capable of installing windows onto a newly built computer, motherboard/storage swapped computer, or any sort of computer that needs a fresh installation of windows. You'll want to plug this USB in before a boot up of the current computer needing the OS.
 </p>
 <br />
 
